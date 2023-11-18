@@ -14,15 +14,14 @@ repo_name: anchit-chandran/foundry
 # `mkdocs serve` serves the documentation at custom port
 dev_addr: "127.0.0.1:8001"
 
-
 nav:
   - "index.md"
-  - About: 
-    - 'about.md'
+  - About:
+      - "about.md"
   - "team.md"
 
 theme:
-  name: material 
+  name: material
   custom_dir: overrides
   logo: _assets/_images/logo.svg
   favicon: _assets/_images/logo.svg
@@ -67,4 +66,3 @@ extra:
       link: https://twitter.com/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/
-
