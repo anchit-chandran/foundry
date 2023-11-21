@@ -3,7 +3,7 @@ title: Home
 template: main.html
 ---
 
-# 👩‍💻 Compear
+# 👩‍💻 CareCompear 🍐
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, veniam, sapiente, provident laborum consequatur saepe cupiditate quam dolorum velit eligendi fuga ratione unde obcaecati non hic odit? Quaerat, sit minima.
 

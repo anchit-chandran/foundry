@@ -1,11 +1,11 @@
 # main site metadata and titles
-site_name: Compear
-site_description: Compear
+site_name: CareCompear 🍐
+site_description: CareCompear 🍐
 site_author: Dr Anchit Chandran
 site_url: https://anchit-chandran.github.io/foundry/
 
 # copyright information which is shown in the footer
-copyright: Copyright &copy; 2023 Compear.
+copyright: Copyright &copy; 2023 CareCompear 🍐.
 
 # these lines configure the 'GitHub repo' widget on the top right
 repo_url: https://github.com/anchit-chandran/foundry
